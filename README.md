@@ -1,19 +1,22 @@
+<h1 style="color: #bf91f3; text-align: center;">💫 About Me:</h1>
 
-
-# 💫 About Me:
 <div style="color: #70a5fd; text-align: center;">
-👋 Hey there! I'm Eleni!<br>Welcome to my GitHub profile! I'm on an exciting journey from the world of Art History to the dynamic realm of web development. 🌟<br><br>
 
-🚀 About Me<br>I'm currently diving deep into the tech universe, armed with a fresh arsenal of skills from a 7-month intensive course. Here's what I'm working with:<br><br>
+👋 Hey there! I'm Eleni!<br>
+Welcome to my GitHub profile! I'm on an exciting journey from the world of Art History to the dynamic realm of web development. 🌟<br><br>
 
-Languages & Frameworks: JavaScript, React, Express, Node.js<br>
-Testing: Jest<br>
-Databases: MongoDB<br>
-Styling: CSS, HTML5, Tailwind, Bootstrap<br>
-State Management: Redux<br>
+<h2 style="color: #70a5fd; text-align: center;">🚀 About Me</h2>
+I'm currently diving deep into the tech universe, armed with a fresh arsenal of skills from a 7-month intensive course. Here's what I'm working with:<br><br>
+
+<strong>Languages & Frameworks:</strong> JavaScript, React, Express, Node.js<br>
+<strong>Testing:</strong> Jest<br>
+<strong>Databases:</strong> MongoDB<br>
+<strong>Styling:</strong> CSS, HTML5, Tailwind, Bootstrap<br>
+<strong>State Management:</strong> Redux<br>
 Starting from zero, I've rapidly grown to love the logic and creativity that web development demands.<br><br>
 
-🌈 More About Me<br>When I'm not coding, you'll find me:<br><br>
+<h2 style="color: #70a5fd; text-align: center;">🌈 More About Me</h2>
+When I'm not coding, you'll find me:<br><br>
 Dancing 💃<br>
 Working out 💪<br>
 Creating art 🎨<br>
@@ -24,8 +27,6 @@ Art and technology might seem worlds apart, but I believe they both share a core
 Let's connect, collaborate, and create amazing things together!
 
 </div>
-
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/veneleni) 
