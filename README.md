@@ -1,11 +1,11 @@
-<h1 style="color: #bf91f3; text-align: center;">💫 About Me:</h1>
+<h1 style="color: #bf91f3; align: center;">💫 About Me:</h1>
 
-<div style="color: #70a5fd; text-align: center;">
+<div style="color: #70a5fd; align: center;">
 
 👋 Hey there! I'm Eleni!<br>
 Welcome to my GitHub profile! I'm on an exciting journey from the world of Art History to the dynamic realm of web development. 🌟<br><br>
 
-<h2 style="color: #70a5fd; text-align: center;">🚀 About Me</h2>
+<h2 style="color: #70a5fd; align: center;">🚀 About Me</h2>
 I'm currently diving deep into the tech universe, armed with a fresh arsenal of skills from a 7-month intensive course. Here's what I'm working with:<br><br>
 
 <strong>Languages & Frameworks:</strong> JavaScript, React, Express, Node.js<br>
@@ -15,7 +15,7 @@ I'm currently diving deep into the tech universe, armed with a fresh arsenal of 
 <strong>State Management:</strong> Redux<br>
 Starting from zero, I've rapidly grown to love the logic and creativity that web development demands.<br><br>
 
-<h2 style="color: #70a5fd; text-align: center;">🌈 More About Me</h2>
+<h2 style="color: #70a5fd; align: center;">🌈 More About Me</h2>
 When I'm not coding, you'll find me:<br><br>
 Dancing 💃<br>
 Working out 💪<br>
