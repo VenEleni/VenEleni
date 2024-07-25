@@ -1,5 +1,30 @@
+<div style="color: #70a5fd; text-align: center;">
+
 # 💫 About Me:
-👋 Hey there! I'm Eleni!<br>Welcome to my GitHub profile! I'm on an exciting journey from the world of Art History to the dynamic realm of web development. 🌟<br><br>🚀 About Me<br>I'm currently diving deep into the tech universe, armed with a fresh arsenal of skills from a 7-month intensive course. Here's what I'm working with:<br><br>Languages & Frameworks: JavaScript, React, Express, Node.js<br>Testing: Jest<br>Databases: MongoDB<br>Styling: CSS, HTML5, Tailwind, Bootstrap<br>State Management: Redux<br>Starting from zero, I've rapidly grown to love the logic and creativity that web development demands.<br><br>🌈 More About Me<br>When I'm not coding, you'll find me:<br><br>Dancing 💃<br>Working out 💪<br>Creating art 🎨<br>Traveling and enjoying free camping 🏕️<br>Soaking up the sun by the sea 🌊<br>Art and technology might seem worlds apart, but I believe they both share a core of creativity and innovation. Whether it's crafting a beautiful piece of code or an artistic masterpiece, I thrive on creating something unique and impactful.<br><br>Let's connect, collaborate, and create amazing things together!
+
+👋 Hey there! I'm Eleni!<br>Welcome to my GitHub profile! I'm on an exciting journey from the world of Art History to the dynamic realm of web development. 🌟<br><br>
+
+🚀 About Me<br>I'm currently diving deep into the tech universe, armed with a fresh arsenal of skills from a 7-month intensive course. Here's what I'm working with:<br><br>
+
+Languages & Frameworks: JavaScript, React, Express, Node.js<br>
+Testing: Jest<br>
+Databases: MongoDB<br>
+Styling: CSS, HTML5, Tailwind, Bootstrap<br>
+State Management: Redux<br>
+Starting from zero, I've rapidly grown to love the logic and creativity that web development demands.<br><br>
+
+🌈 More About Me<br>When I'm not coding, you'll find me:<br><br>
+Dancing 💃<br>
+Working out 💪<br>
+Creating art 🎨<br>
+Traveling and enjoying free camping 🏕️<br>
+Soaking up the sun by the sea 🌊<br>
+Art and technology might seem worlds apart, but I believe they both share a core of creativity and innovation. Whether it's crafting a beautiful piece of code or an artistic masterpiece, I thrive on creating something unique and impactful.<br><br>
+
+Let's connect, collaborate, and create amazing things together!
+
+</div>
+
 
 
 ## 🌐 Socials:
