@@ -19,7 +19,6 @@ Starting from zero, I've rapidly grown to love the logic and creativity that web
 When I'm not coding, you'll find me:<br><br>
 Dancing 💃<br>
 Working out 💪<br>
-Creating art 🎨<br>
 Traveling and enjoying free camping 🏕️<br>
 Soaking up the sun by the sea 🌊<br>
 Art and technology might seem worlds apart, but I believe they both share a core of creativity and innovation. Whether it's crafting a beautiful piece of code or an artistic masterpiece, I thrive on creating something unique and impactful.<br><br>
